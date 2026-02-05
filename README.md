@@ -8,7 +8,3 @@ A simple web app that fetches random quotes from the [Quotable API](https://api.
 2. The page will show a random quote automatically.
 3. Click the "Get New Quote" button to fetch another quote.
 
-## Tech Stack
-
-- HTML
-- JavaScript (fetch API, DOM manipulation)
